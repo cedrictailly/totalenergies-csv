@@ -1,0 +1,11 @@
+{
+  "name": "total-energies",
+  "version": "1.0.0",
+  "description": "Analyse export CSV consommation Total Energies",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fast-glob": "^3.3.2"
+  }
+}
